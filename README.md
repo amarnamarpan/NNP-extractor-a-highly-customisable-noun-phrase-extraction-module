@@ -12,3 +12,6 @@ A gnarble left his cozy bed along the ocean floor. He dreamt about a place that 
 NNP_list = npe.start(text)
 print('::'.join(NNP_list))
 ```
+If using this method, please cite the following. The extractor was used in the following paper.
+## Reference
+[Automatic Catchphrase Identification from Legal Court Case Documents, by A Mandal, K Ghosh, A Pal, S Ghosh at CIKM, 2017](https://dl.acm.org/doi/10.1145/3132847.3133102)
